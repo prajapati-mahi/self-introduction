@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mahi Prajapati 👋</h1>
+<h1 align="center">Hey there, I'm Mahi Prajapati </h1>
 
 <p align="center">
   <em>Computer Science Student · Aspiring Software Engineer · Data Science Enthusiast</em>
@@ -10,13 +10,13 @@
 
 ---
 
-## 🎥 Self-Introduction Video
+## Self-Introduction Video
 
-> 📺 **[Watch my introduction here](https://drive.google.com/file/d/15pvnS9SgF0O-jMfAEbteB0_j-sVYeP0b/view?usp=sharing)**
+> **[Watch my introduction here](https://drive.google.com/file/d/15pvnS9SgF0O-jMfAEbteB0_j-sVYeP0b/view?usp=sharing)**
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm a Computer Science student at **VIT Bhopal University**, passionate about building clean, efficient software and exploring the fascinating world of data. I believe great code is like a good recipe — it needs the right ingredients, the right structure, and a little creativity to come together perfectly.
 
@@ -24,7 +24,7 @@ When I'm not pushing commits, you'll probably find me buried in a book, dissecti
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 **Languages I speak fluently (or mostly fluently):**
 
@@ -43,20 +43,20 @@ When I'm not pushing commits, you'll probably find me buried in a book, dissecti
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 I'm working towards a career as a **Software Engineer**, with a strong interest in also diving deep into **Data Science**. My goal is to sit at the intersection of the two — building intelligent, data-driven applications that solve real problems.
 
 In the short term, I'm focused on:
-- 🔨 Strengthening my full-stack development skills with React & MongoDB
-- 📊 Exploring machine learning and data analysis with Python
-- 🤝 Contributing to open-source projects and collaborative builds
+- Strengthening my full-stack development skills with React & MongoDB
+- Exploring machine learning and data analysis with Python
+- Contributing to open-source projects and collaborative builds
 
 Long term? I want to be the kind of engineer who doesn't just write code, but designs systems that genuinely make a difference.
 
 ---
 
-## 😄 Fun Facts
+## Fun Facts
 
 - I treat cooking the same way I treat debugging — confidently add things, hope for the best, and Google when it goes wrong. It almost always goes wrong.
 - I can recommend you a movie for literally any mood, situation, or existential crisis. I've also definitely over-analyzed the cinematography of films I watched at 2 AM. No regrets.
@@ -64,7 +64,7 @@ Long term? I want to be the kind of engineer who doesn't just write code, but de
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://github.com/prajapati-mahi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
