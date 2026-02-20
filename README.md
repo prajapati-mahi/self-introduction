@@ -12,7 +12,7 @@
 
 ## 🎥 Self-Introduction Video
 
-> 📺 **[Watch my introduction here](https://github.com/prajapati-mahi/self-introduction/blob/main/self-intro.mp4)**
+> 📺 **[Watch my introduction here](https://drive.google.com/file/d/15pvnS9SgF0O-jMfAEbteB0_j-sVYeP0b/view?usp=sharing)**
 
 ---
 
